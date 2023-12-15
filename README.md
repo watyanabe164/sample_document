@@ -1,0 +1,2 @@
+# sample_document
+githubでドキュメント管理したいので試しにドキュメントを作る
